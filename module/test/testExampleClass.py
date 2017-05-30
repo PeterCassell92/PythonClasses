@@ -1,7 +1,7 @@
 import unittest
 from module.square import Square
 from module.triangle import Triangle
-from module.exampleClass import Rectangle
+from module.rectangle import Rectangle
 
 class TestSquare(unittest.TestCase):
     
